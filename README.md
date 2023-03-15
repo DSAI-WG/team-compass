@@ -9,6 +9,9 @@ This meta-repository is meant to help us organize ourselves across the many cons
 
 ## Working Group Meetings
 
+See our [meetings list](https://github.com/DSAI-WG/team-compass/labels/meeting) for information about working group meetings and how to join.
+
+
 
 
 ## Working Group Membership
