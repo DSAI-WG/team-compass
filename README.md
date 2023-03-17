@@ -16,3 +16,5 @@ See our [meetings list](https://github.com/DSAI-WG/team-compass/labels/meeting) 
 
 ## Working Group Membership
 
+---
+Based on the [JupyterHub team compass](https://github.com/jupyterhub/team-compass)
