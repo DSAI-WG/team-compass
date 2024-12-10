@@ -5,22 +5,22 @@ This meta-repository is meant to help us organize ourselves across the many cons
 
 ## Working Group Meetings
 
-| Date         | Speaker               | Title / Topic                                                      | Link to Slides |
-|--------------|-----------------------|--------------------------------------------------------------------|----------------|
-| 08.07.2024   | Renat Shigapov        | Fair GPT for FAIR Research Data                                    | [Slides](#)    |
-| 26.11.2024   | Yannis Papadopoulous | Safety of AI Systems with Executable Causal Models and Statistical Data Science | [Slides](#)    |
-| 20.01.2025   | tbd                  |                                                                    | [Slides](#)    |
-| 24.02.2025   | tbd                   |                                                                    | [Slides](#)    |
-| 20.03.2025   | tbd                   |                                                                    | [Slides](#)    |
-| 24.04.2025   | tbd                   |                                                                    | [Slides](#)    |
-| 20.05.2025   | tbd                   |                                                                    | [Slides](#)    |
-| 24.06.2025   | tbd                   |                                                                    | [Slides](#)    |
-| 20.07.2025   | tbd                   |                                                                    | [Slides](#)    |
-| 24.08.2025   | tbd                   |                                                                    | [Slides](#)    |
-| 20.09.2025   | tbd                   |                                                                    | [Slides](#)    |
-| 24.10.2025   | tbd                   |                                                                    | [Slides](#)    |
-| 20.11.2025   | tbd                   |                                                                    | [Slides](#)    |
-| 17.12.2025   | tbd                   |                                                                    | [Slides](#)    |
+| Date         | Speaker                      | Title / Topic                                                                   | Link to Slides |
+|--------------|------------------------------|---------------------------------------------------------------------------------|----------------|
+| 08.07.2024   | Renat Shigapov               | Fair GPT for FAIR Research Data                                                 | [Slides](#)    |
+| 26.11.2024   | Yannis Papadopoulous         | Safety of AI Systems with Executable Causal Models and Statistical Data Science | [Slides](#)    |
+| 20.01.2025   | Olga Galanets & Mario Holesch| Building Data Spaces: Experiences from current and ongoing Projects             | [Slides](#)    |
+| 24.02.2025   | tbd                          |                                                                                 | [Slides](#)    |
+| 20.03.2025   | tbd                          |                                                                                 | [Slides](#)    |
+| 24.04.2025   | tbd                          |                                                                                 | [Slides](#)    |
+| 20.05.2025   | tbd                          |                                                                                 | [Slides](#)    |
+| 24.06.2025   | tbd                          |                                                                                 | [Slides](#)    |
+| 20.07.2025   | tbd                          |                                                                                 | [Slides](#)    |
+| 24.08.2025   | tbd                          |                                                                                 | [Slides](#)    |
+| 20.09.2025   | tbd                          |                                                                                 | [Slides](#)    |
+| 24.10.2025   | tbd                          |                                                                                 | [Slides](#)    |
+| 20.11.2025   | tbd                          |                                                                                 | [Slides](#)    |
+| 17.12.2025   | tbd                          |                                                                                 | [Slides](#)    |
 
 
 
