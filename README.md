@@ -15,7 +15,7 @@ recordings of all talks and the corresponding slides on the [NFDI4DS Website](ht
 | 26.11.2024 09:00AM   | Yannis Papadopoulous         | Safety of AI Systems with Executable Causal Models and Statistical Data Science | [Slides](https://doi.org/10.5281/zenodo.14223981)    |
 | 20.01.2025 09:00AM   | Olga Galanets & Mario Holesch| [TALK POSTPONED ON SPEAKER REQUEST]                                             | [Slides](https://zenodo.org/records/14906914)    |
 | 25.02.2025 09:00AM   | Olga Galanets & Mario Holesch| Building Data Spaces: Experiences from current and ongoing projects             | [Slides](#)    |
-| 25.03.2025 09:00AM   | Tobias Hamman                | [TALK POSTPONED ON SPEAKER REQUEST]                                             | [Slides](#)    |
+| 25.03.2025 09:00AM   | Tobias Hamann                | [TALK POSTPONED ON SPEAKER REQUEST]                                             | [Slides](#)    |
 | 22.04.2025 09:00AM   | tbd                          | TBD                                                                                | [Slides](#)    |
 | 27.05.2025 09:00AM   | tbd                          | TBD                                                                                | [Slides](#)    |
 | 24.06.2025 09:00AM   | tbd                          | TBD                                                                               | [Slides](#)    |
