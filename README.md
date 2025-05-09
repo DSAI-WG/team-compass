@@ -19,7 +19,7 @@ recordings of all talks and the corresponding slides on the [NFDI4DS Website](ht
 | 22.04.2025 09:00AM   | tbd                          | TBD                                                                                                 | [Slides](#)    |
 | 27.05.2025 09:00AM   | tbd                          | TBD                                                                                                 | [Slides](#)    |
 | 24.06.2025 09:00AM   | Mariana Vitti Rodrigues      | From Epistemic Opacity to Trustworthy Medical AI: Is transparency the pathway?                      | [Slides](#)    |
-| 22.07.2025 09:00AM   | tbd                          | TBD                                                                                                 | [Slides](#)    |
+| 22.07.2025 09:00AM   | Jacobo Miranda               | How to get a Fine-tuned (specialized) LLMs for your academic need with de.KCD                       | [Slides](#)    |
 | 26.08.2025 09:00AM   | [Omitted due to [CoRDI Conference](https://www.nfdi.de/cordi-2025/?lang=en)]                                              |        | [Slides](#)    |
 | 23.09.2025 09:00AM   | tbd                          | TBD                                                                                                 | [Slides](#)    |
 | 28.10.2025 09:00AM   | tbd                          | TBD                                                                                                 | [Slides](#)    |
