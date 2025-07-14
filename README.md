@@ -23,7 +23,7 @@ recordings of all talks and the corresponding slides on the [NFDI4DS Website](ht
 | 26.08.2025 09:00AM   | [Omitted due to [CoRDI Conference](https://www.nfdi.de/cordi-2025/?lang=en)]                                              |        | [Slides](#)    |
 | 23.09.2025 09:00AM   | Jan Krasni                   | [Title pending]                                                                                     | [Slides](#)    |
 | 28.10.2025 09:00AM   | tbd                          | TBD                                                                                                 | [Slides](#)    |
-| 25.11.2025 09:00AM   | tbd                          | TBD                                                                                                 | [Slides](#)    |
+| 25.11.2025 09:00AM   | [Omitted due to NFDI4DS Conference}                          |                                                                                                 | [Slides](#)    |
 
 ---
 Based on the [JupyterHub team compass](https://github.com/jupyterhub/team-compass)
