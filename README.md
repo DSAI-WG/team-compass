@@ -8,11 +8,18 @@ This meta-repository is meant to help us organize ourselves across the many cons
 The Talks are part of the wider NFDI4DS Lecture Series. You can find
 recordings of all talks and the corresponding slides on the [NFDI4DS Website](https://www.nfdi4datascience.de/community/lecture-series/) or on [YouTube](https://www.youtube.com/@nfdi4ds).
 
-  
+### 2024
+
 | Date & Time          | Speaker                      | Title / Topic                                                                                            | Link to Slides |
 |----------------------|------------------------------|----------------------------------------------------------------------------------------------------------|----------------|
 | 08.07.2024 09:00AM   | Renat Shigapov               | Fair GPT for FAIR Research Data                                                                          | [Slides](https://zenodo.org/records/10664554)    |
 | 26.11.2024 09:00AM   | Yannis Papadopoulous         | Safety of AI Systems with Executable Causal Models and Statistical Data Science                          | [Slides](https://doi.org/10.5281/zenodo.14223981)    |
+  
+  
+### 2025
+  
+| Date & Time          | Speaker                      | Title / Topic                                                                                            | Link to Slides |
+|----------------------|------------------------------|----------------------------------------------------------------------------------------------------------|----------------|
 | 20.01.2025 09:00AM   | Olga Galanets & Mario Holesch| [TALK POSTPONED ON SPEAKER REQUEST]                                                                      | [Slides](#)    |
 | 25.02.2025 09:00AM   | Olga Galanets & Mario Holesch| Building Data Spaces: Experiences from current and ongoing projects                                      | [Slides](https://zenodo.org/records/14906914)    |
 | 25.03.2025 09:00AM   | Tobias Hamann                | [TALK POSTPONED ON SPEAKER REQUEST]                                                                      | [Slides](#)    |
@@ -24,6 +31,24 @@ recordings of all talks and the corresponding slides on the [NFDI4DS Website](ht
 | 23.09.2025 09:00AM   | Jan Krasni                   | Towards an Ethical Strategy for Research Data Infrastructures. Digitalizing Archives of Historical Hate  | [Slides](#)    |
 | 28.10.2025 09:00AM   | Hans Zhou                    | [Title pending]                                                                                          | [Slides](#)    |
 | 25.11.2025 09:00AM   | [Omitted due to NFDI4DS Conference]                          |                                                                          | [Slides](#)    |
+| 30.12.2025 09:00AM   | [Omitted due to Public Holiday]                          |                                                                          | [Slides](#)    |
+
+### 2026
+
+| Date & Time          | Speaker                      | Title / Topic                                                                                            | Link to Slides |
+|----------------------|------------------------------|----------------------------------------------------------------------------------------------------------|----------------|
+| 27.01.2026 09:00AM   | TBD                           |  TBD                                                                                                    | [Slides](#)    |
+| 24.02.2026 09:00AM   | TBD                           |  TBD                                                                                                    | [Slides](#)    |
+| 31.03.2026 09:00AM   | TBD                           |  TBD                                                                                                    | [Slides](#)    |
+| 28.04.2026 09:00AM   | TBD                           |  TBD                                                                                                    | [Slides](#)    |
+| 26.05.2026 09:00AM   | TBD                           |  TBD                                                                                                    | [Slides](#)    |
+| 30.06.2026 09:00AM   | TBD                           |  TBD                                                                                                    | [Slides](#)    |
+| 28.07.2026 09:00AM   | TBD                           |  TBD                                                                                                    | [Slides](#)    |
+| 25.08.2026 09:00AM   | TBD                           |  TBD                                                                                                    | [Slides](#)    |
+| 29.09.2026 09:00AM   | TBD                           |  TBD                                                                                                    | [Slides](#)    |
+| 27.10.2026 09:00AM   | TBD                           |  TBD                                                                                                    | [Slides](#)    |
+| 24.11.2026 09:00AM   | TBD                           |  TBD                                                                                                    | [Slides](#)    |
+| 29.12.2026 09:00AM   | TBD                           |  TBD                                                                                                    | [Slides](#)    |
 
 ---
 Based on the [JupyterHub team compass](https://github.com/jupyterhub/team-compass)
