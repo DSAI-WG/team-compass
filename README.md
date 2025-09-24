@@ -23,10 +23,10 @@ recordings of all talks and the corresponding slides on the [NFDI4DS Website](ht
 | 20.01.2025 09:00AM   | Olga Galanets & Mario Holesch| [TALK POSTPONED ON SPEAKER REQUEST]                                                                      | [Slides](#)    |
 | 25.02.2025 09:00AM   | Olga Galanets & Mario Holesch| Building Data Spaces: Experiences from current and ongoing projects                                      | [Slides](https://zenodo.org/records/14906914)    |
 | 25.03.2025 09:00AM   | Tobias Hamann                | [TALK POSTPONED ON SPEAKER REQUEST]                                                                      | [Slides](#)    |
-| 22.04.2025 09:00AM   | tbd                          | TBD                                                                                                      | [Slides](#)    |
-| 27.05.2025 09:00AM   | tbd                          | TBD                                                                                                      | [Slides](#)    |
-| 24.06.2025 09:00AM   | Mariana Vitti Rodrigues      | From Epistemic Opacity to Trustworthy Medical AI: Is transparency the pathway?                           | [Slides](#)    |
-| 22.07.2025 09:00AM   | Jacobo Miranda               | How to get a Fine-tuned (specialized) LLMs for your academic need with de.KCD                            | [Slides](#)    |
+| 22.04.2025 09:00AM   | -                            | -                                                                                                        | [Slides](#)    |
+| 27.05.2025 09:00AM   | -                            | -                                                                                                        | [Slides](#)    |
+| 24.06.2025 09:00AM   | Mariana Vitti Rodrigues      | From Epistemic Opacity to Trustworthy Medical AI: Is transparency the pathway?                           | [Slides](https://github.com/DSAI-WG/team-compass/blob/main/slides/NFDI4DS_MVR2025_FINAL.pdf)    |
+| 22.07.2025 09:00AM   | Jacobo Miranda               | How to get a Fine-tuned (specialized) LLMs for your academic need with de.KCD                            | [Slides](https://docs.google.com/document/d/1NDPEK_zDxU-eqPiAQb21s47JONpD8X6qDCFKCkzGp0o/edit?usp=sharing)    |
 | 26.08.2025 09:00AM   | Omitted due to [CoRDI Conference](https://www.nfdi.de/cordi-2025/?lang=en)                                              |               | [Slides](#)    |
 | 23.09.2025 09:00AM   | Jan Krasni                   | Towards an Ethical Strategy for Research Data Infrastructures. Digitalizing Archives of Historical Hate  | [Slides](#)    |
 | 28.10.2025 09:00AM   | Hans Zhou                    | Knowledge and Data Management with LLMs                                                                  | [Slides](#)    |
