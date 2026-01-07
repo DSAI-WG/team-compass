@@ -39,7 +39,7 @@ recordings of all talks and the corresponding slides on the [NFDI4DS Website](ht
 |----------------------|------------------------------|----------------------------------------------------------------------------------------------------------|----------------|
 | 27.01.2026 09:00AM   | Sandra Geisler               |  TBD                                                                                                    | [Slides](#)    |
 | 24.02.2026 09:00AM   | TBD                          |  TBD                                                                                                    | [Slides](#)    |
-| 24.03.2026 09:00AM   | TBD                          |  TBD                                                                                                    | [Slides](#)    |
+| 24.03.2026 09:00AM   | Andreas Geiger               |  TBD                                                                                                    | [Slides](#)    |
 | 28.04.2026 09:00AM   | TBD                          |  TBD                                                                                                    | [Slides](#)    |
 | 26.05.2026 09:00AM   | TBD                          |  TBD                                                                                                    | [Slides](#)    |
 | 23.06.2026 09:00AM   | TBD                          |  TBD                                                                                                    | [Slides](#)    |
