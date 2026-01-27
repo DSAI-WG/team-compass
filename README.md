@@ -37,18 +37,18 @@ recordings of all talks and the corresponding slides on the [NFDI4DS Website](ht
 
 | Date & Time          | Speaker                      | Title / Topic                                                                                            | Link to Slides |
 |----------------------|------------------------------|----------------------------------------------------------------------------------------------------------|----------------|
-| 27.01.2026 09:00AM   | Sandra Geisler               |  TBD                                                                                                    | [Slides](#)    |
-| 24.02.2026 09:00AM   | TBD                          |  TBD                                                                                                    | [Slides](#)    |
-| 24.03.2026 09:00AM   | Andreas Geiger               |  TBD                                                                                                    | [Slides](#)    |
-| 28.04.2026 09:00AM   | TBD                          |  TBD                                                                                                    | [Slides](#)    |
-| 26.05.2026 09:00AM   | TBD                          |  TBD                                                                                                    | [Slides](#)    |
-| 23.06.2026 09:00AM   | TBD                          |  TBD                                                                                                    | [Slides](#)    |
-| 28.07.2026 09:00AM   | TBD                          |  TBD                                                                                                    | [Slides](#)    |
-| 25.08.2026 09:00AM   | TBD                          |  TBD                                                                                                    | [Slides](#)    |
-| 22.09.2026 09:00AM   | TBD                          |  TBD                                                                                                    | [Slides](#)    |
-| 27.10.2026 09:00AM   | TBD                          |  TBD                                                                                                    | [Slides](#)    |
-| 24.11.2026 09:00AM   | TBD                          |  TBD                                                                                                    | [Slides](#)    |
-| 22.12.2026 09:00AM   | TBD                          |  TBD                                                                                                    | [Slides](#)    |
+| 27.01.2026 09:00AM   | Sandra Geisler                       |  Supporting Research Data Management with generative AI - a modern FAIRytale?                                                             | [Slides](#)    |
+| 24.02.2026 09:00AM   | Sofia Zapounidou                     |  Back to basics: Cataloguing standards as an enabler for knowledge graphs and AI                                                          | [Slides](#)    |
+| 24.03.2026 09:00AM   | Andreas Geiger                       |  Scholar Inbox: Personalized Paper Recommendations for Scientists                                                                         | [Slides](#)    |
+| 28.04.2026 09:00AM   | Johannes Kiesel                      |  [Preliminary] GESIS Methods Hub - the collaborative online portal for finding and sharing computational methods in the social sciences   | [Slides](#)    |
+| 26.05.2026 09:00AM   | Agis Pampantoniou & Gregory DeBacker |  TBD                                                                                                                                      | [Slides](#)    |
+| 23.06.2026 09:00AM   | TBD                                  |  TBD                                                                                                                                      | [Slides](#)    |
+| 28.07.2026 09:00AM   | TBD                                  |  TBD                                                                                                                                      | [Slides](#)    |
+| 25.08.2026 09:00AM   | TBD                                  |  TBD                                                                                                                                      | [Slides](#)    |
+| 22.09.2026 09:00AM   | TBD                                  |  TBD                                                                                                                                      | [Slides](#)    |
+| 27.10.2026 09:00AM   | TBD                                  |  TBD                                                                                                                                      | [Slides](#)    |
+| 24.11.2026 09:00AM   | TBD                                  |  TBD                                                                                                                                      | [Slides](#)    |
+| 22.12.2026 09:00AM   | TBD                                  |  TBD                                                                                                                                      | [Slides](#)    |
 
 ---
 Based on the [JupyterHub team compass](https://github.com/jupyterhub/team-compass)
