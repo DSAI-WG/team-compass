@@ -46,8 +46,8 @@ recordings of all talks and the corresponding slides on the [NFDI4DS Website](ht
 | 28.07.2026 09:00AM   | -                                    |  -                                                                                                                                        | [Slides](#)    |
 | 25.08.2026 09:00AM   | -                                    |  -                                                                                                                                        | [Slides](#)    |
 | 22.09.2026 09:00AM   | -                                    |  -                                                                                                                                        | [Slides](#)    |
-| 27.10.2026 09:00AM   | Aleksandra Pawlik & Julian Eble      |  Jupyter4NFDI                                                                                                                             | [Slides](#)    |
-| 24.11.2026 09:00AM   | TBD                                  |  TBD                                                                                                                                      | [Slides](#)    |
+| 27.10.2026 09:00AM   | TBD                                  |  TBD                                                                                                                                      | [Slides](#)    |
+| 24.11.2026 09:00AM   | Aleksandra Pawlik & Julian Eble      |  Jupyter4NFDI                                                                                                                             | [Slides](#)    |
 | 22.12.2026 09:00AM   | TBD                                  |  TBD                                                                                                                                      | [Slides](#)    |
 
 ---
