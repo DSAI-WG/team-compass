@@ -20,18 +20,18 @@ recordings of all talks and the corresponding slides on the [NFDI4DS Website](ht
   
 | Date & Time          | Speaker                      | Title / Topic                                                                                            | Link to Slides |
 |----------------------|------------------------------|----------------------------------------------------------------------------------------------------------|----------------|
-| 20.01.2025 09:00AM   | Olga Galanets & Mario Holesch| [TALK POSTPONED ON SPEAKER REQUEST]                                                                      | [Slides](#)    |
+| 20.01.2025 09:00AM   | Olga Galanets & Mario Holesch| [TALK POSTPONED ON SPEAKER REQUEST]                                                                      |                |
 | 25.02.2025 09:00AM   | Olga Galanets & Mario Holesch| Building Data Spaces: Experiences from current and ongoing projects                                      | [Slides](https://zenodo.org/records/14906914)    |
-| 25.03.2025 09:00AM   | Tobias Hamann                | [TALK CANCELLED ON SPEAKER REQUEST]                                                                      | [Slides](#)    |
-| 22.04.2025 09:00AM   | -                            | -                                                                                                        | [Slides](#)    |
-| 27.05.2025 09:00AM   | -                            | -                                                                                                        | [Slides](#)    |
+| 25.03.2025 09:00AM   | Tobias Hamann                | [TALK CANCELLED ON SPEAKER REQUEST]                                                                      |                |
+| 22.04.2025 09:00AM   | -                            | -                                                                                                        |                |
+| 27.05.2025 09:00AM   | -                            | -                                                                                                        |                |
 | 24.06.2025 09:00AM   | Mariana Vitti Rodrigues      | From Epistemic Opacity to Trustworthy Medical AI: Is transparency the pathway?                           | [Slides](https://github.com/DSAI-WG/team-compass/blob/main/slides/NFDI4DS_MVR2025_FINAL.pdf)    |
 | 22.07.2025 09:00AM   | Jacobo Miranda               | How to get a Fine-tuned (specialized) LLMs for your academic need with de.KCD                            | [Slides](https://docs.google.com/document/d/1NDPEK_zDxU-eqPiAQb21s47JONpD8X6qDCFKCkzGp0o/edit?usp=sharing)    |
-| 26.08.2025 09:00AM   | Omitted due to [CoRDI Conference](https://www.nfdi.de/cordi-2025/?lang=en)                                              |               | [Slides](#)    |
+| 26.08.2025 09:00AM   | Omitted due to [CoRDI Conference](https://www.nfdi.de/cordi-2025/?lang=en)                                              |               |                |
 | 23.09.2025 09:00AM   | Jan Krasni                   | Towards an Ethical Strategy for Research Data Infrastructures. Digitalizing Archives of Historical Hate  | [Slides](#)    |
 | 28.10.2025 09:00AM   | Hans Zhou                    | Knowledge and Data Management with LLMs                                                                  | [Slides](#)    |
-| 25.11.2025 09:00AM   | [Omitted due to NFDI4DS Conference]                          |                                                                          | [Slides](#)    |
-| 30.12.2025 09:00AM   | [Omitted due to Public Holiday]                          |                                                                              | [Slides](#)    |
+| 25.11.2025 09:00AM   | [Omitted due to NFDI4DS Conference]                          |                                                                          |                |
+| 30.12.2025 09:00AM   | [Omitted due to Public Holiday]                          |                                                                              |                |
 
 ### 2026
 
@@ -41,14 +41,25 @@ recordings of all talks and the corresponding slides on the [NFDI4DS Website](ht
 | 24.02.2026 09:00AM   | Sofia Zapounidou                     |  Back to basics: Cataloguing standards as an enabler for knowledge graphs and AI                                                          | [Slides](https://github.com/DSAI-WG/team-compass/blob/main/slides/NFDI_24022026_Zapounidou.pdf)    |
 | 24.03.2026 09:00AM   | Andreas Geiger                       |  Scholar Inbox: Personalized Paper Recommendations for Scientists                                                                         | [Slides](https://github.com/DSAI-WG/team-compass/blob/main/slides/2026_NFDI4DS_Scholar_Inbox_Lecture.pdf)    |
 | 28.04.2026 09:00AM   | Johannes Kiesel                      |  GESIS Methods Hub - the collaborative online portal for finding and sharing computational methods in the social sciences                 | [Slides](https://github.com/DSAI-WG/team-compass/blob/main/slides/2026-04-28-methods-hub-at-ndfi4ds-lecture-series.pdf)    |
-| 26.05.2026 09:00AM   | Agis Pampantoniou & Gregory DeBacker |  [TALK CANCELLED]                                                                                                                         | [Slides](#)    |
+| 26.05.2026 09:00AM   | Agis Pampantoniou & Gregory DeBacker |  [TALK CANCELLED]                                                                                                                         |                |
 | 23.06.2026 09:00AM   | Ralf Möller                          |  Research Data Management with Machine Training Support                                                                                   | [Slides](https://github.com/DSAI-WG/team-compass/blob/main/slides/NFDI4DS_2026_Moeller.pdf)    |
-| 28.07.2026 09:00AM   | -                                    |  -                                                                                                                                        | [Slides](#)    |
-| 25.08.2026 09:00AM   | -                                    |  -                                                                                                                                        | [Slides](#)    |
-| 22.09.2026 09:00AM   | -                                    |  -                                                                                                                                        | [Slides](#)    |
-| 27.10.2026 09:00AM   | TBD                                  |  TBD                                                                                                                                      | [Slides](#)    |
+| 28.07.2026 09:00AM   | summer break                         |  -                                                                                                                                        |                |
+| 25.08.2026 09:00AM   | summer break                         |  -                                                                                                                                        |                |
+| 22.09.2026 09:00AM   | -                                    |  -                                                                                                                                        |                |
+| 27.10.2026 09:00AM   | -                                    |  -                                                                                                                                        |                |
 | 24.11.2026 09:00AM   | Aleksandra Pawlik & Julian Eble      |  Jupyter4NFDI                                                                                                                             | [Slides](#)    |
 | 22.12.2026 09:00AM   | TBD                                  |  TBD                                                                                                                                      | [Slides](#)    |
+
+### 2027
+| Date & Time          | Speaker                      | Title / Topic                                                                                            | Link to Slides |
+|----------------------|------------------------------|----------------------------------------------------------------------------------------------------------|----------------|
+| 26.01.2027 09:00AM   | TBD                          | TBD                                                                                                      | [Slides](#)    |
+| 23.02.2027 **04:00PM**   | Christopher Barrie       | AI in Science / Reproducible Workflows with AI [TBD] (please note changed time)                          | [Slides](#)    |
+| 23.03.2027 09:00AM   | TBD                          | TBD                                                                                                      | [Slides](#)    |
+| 27.04.2027 09:00AM   | TBD                          | TBD                                                                                                      | [Slides](#)    |
+| 25.05.2027 09:00AM   | TBD                          | TBD                                                                                                      | [Slides](#)    |
+| 22.06.2027 09:00AM   | TBD                          | TBD                                                                                                      | [Slides](#)    |
+
 
 ---
 Based on the [JupyterHub team compass](https://github.com/jupyterhub/team-compass)
