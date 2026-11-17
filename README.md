@@ -48,17 +48,20 @@ recordings of all talks and the corresponding slides on the [NFDI4DS Website](ht
 | 22.09.2026 09:00AM   | -                                    |  -                                                                                                                                        |                |
 | 27.10.2026 09:00AM   | -                                    |  -                                                                                                                                        |                |
 | 24.11.2026 09:00AM   | Aleksandra Pawlik & Julian Eble      |  Jupyter4NFDI                                                                                                                             | [Slides](#)    |
-| 22.12.2026 09:00AM   | TBD                                  |  TBD                                                                                                                                      | [Slides](#)    |
+| 22.12.2026 09:00AM   | season break                         |                                                                                                                                           | [Slides](#)    |
 
 ### 2027
+
+**We have a new timeslot 03:00PM**
+
 | Date & Time          | Speaker                      | Title / Topic                                                                                            | Link to Slides |
 |----------------------|------------------------------|----------------------------------------------------------------------------------------------------------|----------------|
-| 26.01.2027 09:00AM   | TBD                          | TBD                                                                                                      | [Slides](#)    |
-| 23.02.2027 **04:00PM**   | Christopher Barrie       | AI in Science / Reproducible Workflows with AI [TBD] (please note changed time)                          | [Slides](#)    |
-| 23.03.2027 09:00AM   | TBD                          | TBD                                                                                                      | [Slides](#)    |
-| 27.04.2027 09:00AM   | TBD                          | TBD                                                                                                      | [Slides](#)    |
-| 25.05.2027 09:00AM   | TBD                          | TBD                                                                                                      | [Slides](#)    |
-| 22.06.2027 09:00AM   | TBD                          | TBD                                                                                                      | [Slides](#)    |
+| 26.01.2027 03:00PM   | TBD                          | TBD                                                                                                      | [Slides](#)    |
+| 23.02.2027 **04:00PM**   | Christopher Barrie       | AI in Science / Reproducible Workflows with AI [TBD] <br>*(please note unusual time)*                    | [Slides](#)    |
+| 23.03.2027 03:00PM   | TBD                          | TBD                                                                                                      | [Slides](#)    |
+| 27.04.2027 03:00PM   | TBD                          | TBD                                                                                                      | [Slides](#)    |
+| 25.05.2027 03:00PM   | TBD                          | TBD                                                                                                      | [Slides](#)    |
+| 22.06.2027 03:00PM   | TBD                          | TBD                                                                                                      | [Slides](#)    |
 
 
 ---
